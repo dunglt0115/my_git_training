@@ -5,7 +5,10 @@ body {
 button {
     background-color: blue;
     color: white;
+<<<<<<< HEAD
     width: 100px;
     height: 200px;
     position: relative;
+=======
+>>>>>>> 59f6ac6781dcfb57ed0ef827ba0d7fb92a161d9f
 }
